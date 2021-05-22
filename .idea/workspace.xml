@@ -4,6 +4,16 @@
     <list default="true" id="231464dd-a486-4762-8ffc-3943a494b7e6" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Roboto-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Roboto-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Roboto-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Roboto-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/fonts/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/images/header_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scss/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scss/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/scss/_vars.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/start-gulp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Moderno.iml" afterDir="false" />
@@ -68,7 +78,7 @@
       <workItem from="1621371452756" duration="10817000" />
       <workItem from="1621517237549" duration="2393000" />
       <workItem from="1621544432891" duration="65000" />
-      <workItem from="1621544500093" duration="9491000" />
+      <workItem from="1621544500093" duration="9802000" />
     </task>
     <servers />
   </component>
