@@ -249,6 +249,86 @@
     }
   }
 }
-
-
 //end slider
+
+//start advantages
+.advantages{
+  background-color: $bg;
+  padding: 110px 0;
+
+}
+.advantages__title{
+  color: #FFFFFF;
+}
+.advantages__inner{
+  display: flex;
+  justify-content: space-between;
+}
+.advantages__item{
+  max-width: 370px;
+  padding: 0 15px;
+  text-align: center;
+  &-images{
+    width: 114px;
+    height: 114px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto;
+  }
+  &-title{
+    margin-bottom: 25px;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 500;
+  }
+  &-text{
+    font-size: 15px;
+    color: #b0bec5;
+  }
+}
+//end  advantages
+//start author
+
+.author{
+background-image: url(../images/author-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 750px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &__box{
+    background-color: $green-text;
+    max-width: 650px;
+    min-height: 215px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  &__title{
+    font-size: 30px;
+    line-height: 30px;
+    color:#ffff;
+    margin-right: 45px;
+    max-width: 260px;
+    span{
+      font-weight: 700;
+    }
+  }
+  &__link{
+    font-size: 18px;
+    line-height: 36px;
+    padding: 14px 40px;
+    background-color: #FFFFFF;
+
+  }
+}
+
+
+//end author
