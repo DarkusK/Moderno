@@ -20,7 +20,7 @@ ul,li{
 
 }
 body{
-  font-family: 'Roboto-Regular',sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 15px;
   line-height: 24px;
   color: $color-text;
@@ -30,4 +30,23 @@ body{
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 15px;
+}
+// Контейнер который обычно растягивается на всю ширину
+.container-fluid{
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+@media (max-width: 720px){
+  .container-fluid{
+    padding: 0 15px;
+  }
+}
+.title{
+  text-align: center;
+  color: $bg;
+  font-weight: 700;
+  line-height: 60px;
+  font-size: 36px;
+  margin-bottom: 30px;
 }
