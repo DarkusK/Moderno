@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="231464dd-a486-4762-8ffc-3943a494b7e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/style.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/scss/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/_fonts.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/scss/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +64,8 @@
       <workItem from="1621371452756" duration="10817000" />
       <workItem from="1621517237549" duration="2393000" />
       <workItem from="1621544432891" duration="65000" />
-      <workItem from="1621544500093" duration="38302000" />
+      <workItem from="1621544500093" duration="42895000" />
+      <workItem from="1623659438146" duration="12625000" />
     </task>
     <servers />
   </component>
